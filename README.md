@@ -12,3 +12,7 @@
 ### Base SDXL
 
 ![Base SDXL](sd.png)
+
+### Lora
+
+![LoRA](lora.png)
