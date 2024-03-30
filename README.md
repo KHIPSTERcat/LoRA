@@ -10,4 +10,5 @@
 
 ## animation,man shrugging
 ### Base SDXL
-![sd.png]
+
+![Base SDXL](sd.png)
